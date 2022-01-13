@@ -1,6 +1,6 @@
 '''
 Full Name: Rahique Mirza
-ID: 912715741
+ID: rmm6798
 Date: 01/13/2022
 Filename: L1_Mirza_Rahique_rmm6798.py
 Purpose: The purpose of this code is to calculate the balance based on a given interest rate
